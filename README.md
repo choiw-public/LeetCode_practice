@@ -2,13 +2,6 @@
  
 * https://leetcode.com/problemset/top-interview-questions
 
-| Num | Title | Difficulty | Note | Date | Description |
-|---|---|---|---|---|---|
-| 0001 | Two Sum | ★ | - | 2020/9/21 | [link](https://leetcode.com/problems/two-sum/) |
-| 0002 | Add Two Numbers  | ★★ |   |   |
-|   |   |   |   |   |
-
-
-
-| ___ | ___ | ___ | ___
-| 0001 | Two Sum | ★ |     
+| Num | Title | Difficulty | Date | Note |
+|---|---|---|---|---|
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | ★ | 2020/9/21 | [link](notes/0001.Two_sum.ipynb) |
