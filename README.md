@@ -1,4 +1,4 @@
-# Python algorithm solutions with personal notes
+# LeetCode solutions with personal notes
  
 * https://leetcode.com/problemset/top-interview-questions
 
