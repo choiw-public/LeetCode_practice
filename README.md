@@ -10,5 +10,5 @@
 | 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | ★★ | 2020/9/26 | [link](notes/0005.Longest_Palindromic_Substring.ipynb) |
 | 0006 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | ★★ | 2020/9/27 | [link](notes/0006.ZigZag_Conversion.ipynb) |
 | 0007 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | ★ | 2020/10/11 | [link](notes/0007.Reverse_integer.ipynb) |
-| 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | ★★ | 2020/10/11 | [link](notes/0008.String to Integer (atoi).ipynb) |
+| 0008 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | ★★ | 2020/10/11 | [link](notes/0008.String_to_Integer(atoi).ipynb) |
 
