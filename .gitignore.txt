@@ -1,7 +1,0 @@
-.git
-.gitignore.txt
-.idea
-.ipynb_checkpoints
-./notes/*.py
-./notes/*template*
-./notes/*private_*
