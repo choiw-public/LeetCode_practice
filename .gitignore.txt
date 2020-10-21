@@ -1,6 +1,7 @@
 .git
+.gitignore.txt
 .idea
 .ipynb_checkpoints
-*.py
-*template*
-private*
+./notes/*.py
+./notes/*template*
+./notes/*private_*
