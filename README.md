@@ -14,4 +14,7 @@ LeetCode solutions with personal notes
 | 0011 | [Container With Most Water (atoi)](https://leetcode.com/problems/container-with-most-water/) | ★★ | 2020/10/21 | [link](notes/0011.Container_With_Most_Water.ipynb) |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | ★ | 2020/10/22 | [link](notes/0013.Roman_to_Integer.ipynb) |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/roman-to-integer/) | ★ | 2020/10/22 | [link](notes/0014.Longest_Common_Prefix.ipynb) |
-
+| 0015 | [3Sum](https://leetcode.com/problems/3sum/) | ★★ | 2020/10/24 | [link](notes/0015.3Sum.ipynb) |
+| 0016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | ★★ | 2020/10/24 | [link](notes/0016.3Sum_closest.ipynb) |
+| 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | ★★ | 2020/10/24 | [link](notes/0017.Letter_Combinations_of_a_Phone_Number.ipynb) |
+| 0167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ★ | 2020/10/23 | [link](notes/0167.Two_Sum_II.ipynb) |
