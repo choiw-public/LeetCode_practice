@@ -20,4 +20,5 @@ LeetCode solutions with personal notes
 | 0018 | [4Sum](https://leetcode.com/problems/4sum/) | ★★ | 2020/10/26 | [link](notes/0018.4Sum.ipynb) |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ★★ | 2020/10/25 | [link](notes/0019.Remove_Nth_Node_From_End_of_List.ipynb) |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ★ | 2020/10/25 | [link](notes/0020.Valid_Parentheses.ipynb) |
+| 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ★ | 2020/10/26 | [link](notes/0021.Merge_Two_Sorted_Lists.ipynb) |
 | 0167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ★ | 2020/10/23 | [link](notes/0167.Two_Sum_II.ipynb) |
