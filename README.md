@@ -22,4 +22,5 @@ LeetCode solutions with personal notes
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ★ | 2020/10/25 | [link](notes/0020.Valid_Parentheses.ipynb) |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ★ | 2020/10/26 | [link](notes/0021.Merge_Two_Sorted_Lists.ipynb) |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | ★★ | 2020/10/27 | [link](notes/0022.Generate_Parentheses) |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | ★ | 2020/10/27 | [link](notes/0026.Remove_Duplicates_from_Sorted_Array) |
 | 0167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ★ | 2020/10/23 | [link](notes/0167.Two_Sum_II.ipynb) |
