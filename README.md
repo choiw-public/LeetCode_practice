@@ -27,4 +27,5 @@ LeetCode solutions with personal notes
 | 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | ★★ | 2020/10/28 | [link](notes/0029.Divide_Two_Integers) |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ★★ | 2020/10/29 | [link](notes/0033.Search in Rotated Sorted Array) |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | ★★ | 2020/10/30 | [link](notes/0034.Find_First_and_Last_Position_of_Element_in_Sorted_Array) |
+| 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | ★★ | 2020/11/17 | [link](notes/0036.Valid_Sudoku.ipynb) |
 | 0167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ★ | 2020/10/23 | [link](notes/0167.Two_Sum_II.ipynb) |
