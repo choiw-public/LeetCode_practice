@@ -28,4 +28,5 @@ LeetCode solutions with personal notes
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ★★ | 2020/10/29 | [link](notes/0033.Search in Rotated Sorted Array) |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | ★★ | 2020/10/30 | [link](notes/0034.Find_First_and_Last_Position_of_Element_in_Sorted_Array) |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | ★★ | 2020/11/17 | [link](notes/0036.Valid_Sudoku.ipynb) |
+| 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | ★ | 2020/11/18 | [link](notes/0038.Count_and_Say) |
 | 0167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ★ | 2020/10/23 | [link](notes/0167.Two_Sum_II.ipynb) |
