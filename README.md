@@ -3,7 +3,7 @@ LeetCode solutions with personal notes
 * https://leetcode.com/problemset/top-interview-questions
 
 | Num | Title | Difficulty | Date | Note | Review |
-|---|---|---|---|---|
+|---|---|---|---|---|---|
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | ★ | 2020/9/21 | [link](notes/0001.Two_sum.ipynb) | 2 | 
 | 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ★★ | 2020/9/22 | [link](notes/0002.Add_Two_Numbers.ipynb) | 2 |
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ★★ | 2020/9/22 | [link](notes/0003.Longest_substring_without_repeating_characters.ipynb) | 2 |
@@ -22,7 +22,7 @@ LeetCode solutions with personal notes
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ★ | 2020/10/25 | [link](notes/0020.Valid_Parentheses.ipynb) | 1 |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ★ | 2020/10/26 | [link](notes/0021.Merge_Two_Sorted_Lists.ipynb) | 1 |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | ★★ | 2020/10/27 | [link](notes/0022.Generate_Parentheses) | 1 |
-| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | ★ | 2020/10/27 | [link](notes/0026.Remove_Duplicates_from_Sorted_Array) | 1 |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | ★ | 2020/10/27 | [link](notes/0026.Remove_Duplicates_from_Sorted_Array) | 2 |
 | 0028 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | ★ | 2020/10/27 | [link](notes/0028.Implement_strStr()) | 1 |
 | 0029 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/) | ★★ | 2020/10/28 | [link](notes/0029.Divide_Two_Integers) | 1 |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ★★ | 2020/10/29 | [link](notes/0033.Search_in_Rotated_Sorted_Array.ipynb) | 1 |
