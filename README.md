@@ -14,10 +14,10 @@ LeetCode solutions with personal notes
 | 0011 | [Container With Most Water (atoi)](https://leetcode.com/problems/container-with-most-water/) | ★★ | 2020/10/21 | [link](notes/0011.Container_With_Most_Water.ipynb) | 2 |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | ★ | 2020/10/22 | [link](notes/0013.Roman_to_Integer.ipynb) | 2 |
 | 0014 | [Longest Common Prefix](https://leetcode.com/problems/roman-to-integer/) | ★ | 2020/10/22 | [link](notes/0014.Longest_Common_Prefix.ipynb) | 2 |
-| 0015 | [3Sum](https://leetcode.com/problems/3sum/) | ★★ | 2020/10/24 | [link](notes/0015.3Sum.ipynb) | 2 |
-| 0016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | ★★ | 2020/10/24 | [link](notes/0016.3Sum_closest.ipynb) | 1 |
+| 0015 | [3Sum](https://leetcode.com/problems/3sum/) | ★★ | 2020/10/24 | [link](notes/0015.3Sum.ipynb) | 3 |
+| 0016 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | ★★ | 2020/10/24 | [link](notes/0016.3Sum_closest.ipynb) | 2 |
 | 0017 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | ★★ | 2020/10/24 | [link](notes/0017.Letter_Combinations_of_a_Phone_Number.ipynb) | 2 |
-| 0018 | [4Sum](https://leetcode.com/problems/4sum/) | ★★ | 2020/10/26 | [link](notes/0018.4Sum.ipynb) | 1 |
+| 0018 | [4Sum](https://leetcode.com/problems/4sum/) | ★★ | 2020/10/26 | [link](notes/0018.4Sum.ipynb) | 2 |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | ★★ | 2020/10/25 | [link](notes/0019.Remove_Nth_Node_From_End_of_List.ipynb) | 1 |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ★ | 2020/10/25 | [link](notes/0020.Valid_Parentheses.ipynb) | 1 |
 | 0021 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | ★ | 2020/10/26 | [link](notes/0021.Merge_Two_Sorted_Lists.ipynb) | 1 |
@@ -29,4 +29,5 @@ LeetCode solutions with personal notes
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | ★★ | 2020/10/30 | [link](notes/0034.Find_First_and_Last_Position_of_Element_in_Sorted_Array) | 1 |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | ★★ | 2020/11/17 | [link](notes/0036.Valid_Sudoku.ipynb) | 2 |
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | ★ | 2020/11/18 | [link](notes/0038.Count_and_Say) | 2 |
+| 0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | ★★★ | 2020/11/20 | [link](notes/0041.First_Missing_Positive) | 1 |
 | 0167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ★ | 2020/10/23 | [link](notes/0167.Two_Sum_II.ipynb) | 1 |
