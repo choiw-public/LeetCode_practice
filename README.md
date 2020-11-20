@@ -28,6 +28,6 @@ LeetCode solutions with personal notes
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ★★ | 2020/10/29 | [link](notes/0033.Search_in_Rotated_Sorted_Array.ipynb) | 1 |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | ★★ | 2020/10/30 | [link](notes/0034.Find_First_and_Last_Position_of_Element_in_Sorted_Array) | 1 |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | ★★ | 2020/11/17 | [link](notes/0036.Valid_Sudoku.ipynb) | 2 |
-| 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | ★ | 2020/11/18 | [link](notes/0038.Count_and_Say) | 2 |
-| 0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | ★★★ | 2020/11/20 | [link](notes/0041.First_Missing_Positive) | 1 |
+| 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | ★ | 2020/11/18 | [link](notes/0038.Count_and_Say.ipynb) | 2 |
+| 0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | ★★★ | 2020/11/20 | [link](notes/0041.First_Missing_Positive.ipynb) | 1 |
 | 0167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ★ | 2020/10/23 | [link](notes/0167.Two_Sum_II.ipynb) | 1 |
