@@ -4,8 +4,8 @@ LeetCode solutions with personal notes
 
 | ID | Title | Difficulty | Date | Note | Review | Retry |
 |---|---|---|---|---|---|---|
-| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | ★ | 2020/9/21 | [link](notes/0001.Two_sum.ipynb) | 2 |
-| 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ★★ | 2020/9/22 | [link](notes/0002.Add_Two_Numbers.ipynb) | 2 |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | ★ | 2020/9/21 | [link](notes/0001.Two_sum.ipynb) | 2 |   |
+| 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ★★ | 2020/9/22 | [link](notes/0002.Add_Two_Numbers.ipynb) | 2 |   |
 | 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ★★ | 2020/9/22 | [link](notes/0003.Longest_substring_without_repeating_characters.ipynb) | 2 |   |
 | 0005 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | ★★ | 2020/9/26 | [link](notes/0005.Longest_Palindromic_Substring.ipynb) | 2 |   |
 | 0006 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | ★★ | 2020/9/27 | [link](notes/0006.ZigZag_Conversion.ipynb) | 0 |   |
@@ -29,5 +29,5 @@ LeetCode solutions with personal notes
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | ★★ | 2020/10/30 | [link](notes/0034.Find_First_and_Last_Position_of_Element_in_Sorted_Array) | 1 |   |
 | 0036 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | ★★ | 2020/11/17 | [link](notes/0036.Valid_Sudoku.ipynb) | 2 |   |
 | 0038 | [Count and Say](https://leetcode.com/problems/count-and-say/) | ★ | 2020/11/18 | [link](notes/0038.Count_and_Say.ipynb) | 2 |   |
-| 0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | ★★★ | 2020/11/20 | [link](notes/0041.First_Missing_Positive.ipynb) | 1 | ✔ |
+| 0041 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) | ★★★ | 2020/11/21 | [link](notes/0041.First_Missing_Positive.ipynb) | 2 | ✔ |
 | 0167 | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | ★ | 2020/10/23 | [link](notes/0167.Two_Sum_II.ipynb) | 1 |
